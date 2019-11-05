@@ -1,3 +1,5 @@
+[GitDruid]
+
 OpenCPU APP: appdemo
 ====================
   
